@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "fa10b893-24c4-4bce-ab65-8587e269e24e",
+    "Name": "AnNoCaptionGrid",
+    "ModifiedOnUtc": "\/Date(1585917710000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Клиентская схема 1",
+    "DependsOn": []
+  }
+}
