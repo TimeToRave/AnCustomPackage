@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f605e02c-fe67-4255-83fc-567ccba736b3",
+    "Name": "AnCustomPackage",
+    "ModifiedOnUtc": "\/Date(1585917034000)\/",
+    "Maintainer": "Anserem",
+    "DependsOn": [
+      {
+        "UId": "186e4a99-be9b-4749-b966-e3055381a45d",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesTeam"
+      }
+    ]
+  }
+}
