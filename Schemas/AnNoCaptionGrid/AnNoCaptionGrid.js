@@ -3,9 +3,13 @@ define("AnNoCaptionGrid", [], function () {
 	Ext.define("Terrasoft.controls.AnNoCaptionGrid", {
 		extend: "Terrasoft.Grid",
 		alternateClassName: "Terrasoft.AnNoCaptionGrid",
-			
-		renderCaptionsRow: Ext.emptyFn
 		
+		init: function() {
+		    this.callParent(arguments);
+		    console.log("Init component");
+		}, 
+		
+		renderCaptionsRow: Ext.emptyFn,	
 	});
 	return Terrasoft.AnNoCaptionGrid;
 });
